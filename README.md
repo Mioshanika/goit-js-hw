@@ -1,2 +1,3 @@
 # goit-js-hw
- JavaScript homeworks
+
+GoIT JavaScript module homeworks. Each homework will sit in it's own branch.
