@@ -1,0 +1,2 @@
+// Please put your javascript files here.
+// Make sure to edit <script> tag in the index.html too.
